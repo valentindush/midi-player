@@ -5,7 +5,7 @@ import PianoKeyboard from './components/keyboard'
 function App() {
   return (
     <main className='h-screen'>
-      <div className="h-[80%] px-24">
+      <div className="h-[75%] px-24">
         <h1 className="text-3xl text-center p-2 font-bold">Piano Keyboard</h1>
 
         <div className="bg-gray-200 p-4 rounded-xl flex gap-4">
